@@ -46,3 +46,6 @@ This is a library used to collect MIA(membership inference attack) open source p
 
 -[Membership Inference of Generative Models](https://github.com/jhayes14/gen_mem_inf)
 
+-[Segmentations-Leak: Membership Inference Attacks and Defenses in Semantic Image Segmentation](https://github.com/SSAW14/segmentation_membership_inference)
+
+-[The source code for ICML2021 paper When Does Data Augmentation Help With Membership Inference Attacks?](https://github.com/yigitcankaya/augmentation_mia)
