@@ -35,3 +35,14 @@ This is a library used to collect MIA(membership inference attack) open source p
 -[A torch-based implementation of the Membership Inference Attack described in the paper Membership Inference Attacks against Machine Learning Models](https://github.com/aneezJaheez/MIA)
 
 -[Pytorch implementation of "Membership Inference Attacks are Easier on Difficult Problems", ICCV 2021](https://github.com/avitalsh/reconst_based_MIA)
+
+-[The Audio Auditor: Participant-Level Membership Inference in Internet of Things Voice Services](https://github.com/skyInGitHub/The-Audio-Auditor)
+
+-[Public implementation of ICML'19 paper "White-box vs Black-box: Bayes Optimal Strategies for Membership Inference"](https://github.com/facebookresearch/whitebox_blackbox)
+
+-[An implementation of data poisoning attack and membership inference attack in Pytorch](https://github.com/icmpnorequest/MLSec)
+
+-[Implementation for the experiments in the blogpost "Demystifying the Membership Inference Attack" at https://www.mlsecurity.ai/post/demystifying-the-membership-inference-attack](https://github.com/DisaitekAI/membership_inference_attack)
+
+-[Membership Inference of Generative Models](https://github.com/jhayes14/gen_mem_inf)
+
