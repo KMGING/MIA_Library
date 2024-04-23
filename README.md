@@ -19,3 +19,19 @@ This is a library used to collect MIA(membership inference attack) open source p
 -[membership-inference-via-backdooring](https://github.com/HongshengHu/membership-inference-via-backdooring)
 
 -[Official implementation of "RelaxLoss: Defending Membership Inference Attacks without Losing Utility" (ICLR 2022)](https://github.com/DingfanChen/RelaxLoss)
+
+-[Full demonstration of the complete attack pipeline (train/attack/evaluate) in 3 domain (table, NLP, Image) (Classification)](https://github.com/qawsedrg/Membership_Inference_Attack)
+
+-[This's code, for "Practical Blind Membership Inference Attack via Differential Comparison" , which is I have learnt yet. We have nine membership inference attack to use.](https://github.com/L1n111ya/Blind-MIA)
+
+-[Membership Inference Attack on Federated Learning](https://github.com/MIA-FL/SP22)
+
+-[Disparate Vulnerability to Membership Inference Attacks](https://github.com/spring-epfl/disparate-vulnerability)
+
+-[Code for paper: Understanding Disparate Effects of Membership Inference Attacks and Their Countermeasures](https://github.com/dzhong2/MIA_disparity)
+
+-[This is the open source implementation of the calibrated privacy attacks. This code reproduces the results from the paper On the Importance of Difficulty Calibration in Membership Inference Attacks.](https://github.com/facebookresearch/calibration_membership)
+
+-[A torch-based implementation of the Membership Inference Attack described in the paper Membership Inference Attacks against Machine Learning Models](https://github.com/aneezJaheez/MIA)
+
+-[Pytorch implementation of "Membership Inference Attacks are Easier on Difficult Problems", ICCV 2021](https://github.com/avitalsh/reconst_based_MIA)
