@@ -51,3 +51,5 @@ This is a library used to collect MIA(membership inference attack) open source p
 -[The source code for ICML2021 paper When Does Data Augmentation Help With Membership Inference Attacks?](https://github.com/yigitcankaya/augmentation_mia)
 
 -[Code for the paper: Label-Only Membership Inference Attacks](https://github.com/cchoquette/membership-inference)
+
+-[Citation: Tonni, S. M., Vatsalan, D., Farokhi, F., Kaafar, D., Lu, Z., & Tangari, G. (2020). Data and model dependencies of membership inference attack. arXiv preprint arXiv:2002.06856.](https://github.com/SJabin/Data_Model_Dependencies_MIA)
